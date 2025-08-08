@@ -131,6 +131,7 @@ O frontend faz `fetch` com `?keyword=${encodeURIComponent(keyword)}` e renderiza
 ```bash
 curl "http://localhost:3001/api/scrape?keyword=headphones"
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78ed0271-26c8-4b90-999a-878d82317c56" />
 
 ## Avisos
 
